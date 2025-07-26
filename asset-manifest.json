@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/darkecom/static/css/main.c4e72b06.css",
-    "main.js": "/darkecom/static/js/main.a75c2e81.js",
+    "main.css": "/darkecom/static/css/main.ab1ba577.css",
+    "main.js": "/darkecom/static/js/main.dd86a24a.js",
     "static/js/453.67366af4.chunk.js": "/darkecom/static/js/453.67366af4.chunk.js",
     "static/media/footer-pattern.jpg": "/darkecom/static/media/footer-pattern.b2c6e6dcc3abb3914c1d.jpg",
     "static/media/about.jpg": "/darkecom/static/media/about.477b377ff84632636d47.jpg",
@@ -24,10 +24,12 @@
     "static/media/selling-products18.jpg": "/darkecom/static/media/selling-products18.da67bae63a7f40e45211.jpg",
     "static/media/selling-products13.jpg": "/darkecom/static/media/selling-products13.54ccebd7d6386b4e4294.jpg",
     "static/media/selling-products2.jpg": "/darkecom/static/media/selling-products2.954e2440d6027fc084d0.jpg",
+    "static/media/slider-bg.jpg": "/darkecom/static/media/slider-bg.7732952e4d7c2802ba79.jpg",
     "static/media/bg_6.jpg": "/darkecom/static/media/bg_6.63e9f896ebab0a82bbd9.jpg",
     "static/media/selling-products19.jpg": "/darkecom/static/media/selling-products19.9f9822c5262e8d984825.jpg",
     "static/media/selling-products14.jpg": "/darkecom/static/media/selling-products14.64f65dbba860db0e96f1.jpg",
     "static/media/about-2.jpg": "/darkecom/static/media/about-2.f30b2a4307194b196e8e.jpg",
+    "static/media/bg-1.jpg": "/darkecom/static/media/bg-1.a30af08c86ab60f0f3d9.jpg",
     "static/media/insta-image6.jpg": "/darkecom/static/media/insta-image6.073b397106c9f46dd46a.jpg",
     "static/media/bg-6.jpg": "/darkecom/static/media/bg-6.078f3afb46b69e83d2bd.jpg",
     "static/media/insta-image3.jpg": "/darkecom/static/media/insta-image3.7c6e6647010fba28bf3c.jpg",
@@ -58,12 +60,12 @@
     "static/media/slick.ttf": "/darkecom/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/darkecom/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/darkecom/index.html",
-    "main.c4e72b06.css.map": "/darkecom/static/css/main.c4e72b06.css.map",
-    "main.a75c2e81.js.map": "/darkecom/static/js/main.a75c2e81.js.map",
+    "main.ab1ba577.css.map": "/darkecom/static/css/main.ab1ba577.css.map",
+    "main.dd86a24a.js.map": "/darkecom/static/js/main.dd86a24a.js.map",
     "453.67366af4.chunk.js.map": "/darkecom/static/js/453.67366af4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4e72b06.css",
-    "static/js/main.a75c2e81.js"
+    "static/css/main.ab1ba577.css",
+    "static/js/main.dd86a24a.js"
   ]
 }
